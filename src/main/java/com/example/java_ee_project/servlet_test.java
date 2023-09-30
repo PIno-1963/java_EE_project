@@ -2,7 +2,6 @@ package com.example.java_ee_project;
 
 import java.io.*;
 import java.sql.Connection;
-import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 import jakarta.servlet.RequestDispatcher;
