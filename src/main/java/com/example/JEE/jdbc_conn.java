@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class jdbc_conn {
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/form test";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/lottery_db";
     private static final String DB_USER = "root";
     private static final String DB_PASSWORD = "hamza";
 
